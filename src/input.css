@@ -30,7 +30,10 @@ h2,
 h3 {
     font-weight: 700;
 }
+.bgcol{
+    background: radial-gradient(83.15% 154.4% at 10% 13.52%, #1E212C 0%, #232441 56.38%, #1E212C 100%);
 
+}
 
 
 .container {
